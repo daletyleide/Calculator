@@ -2,8 +2,8 @@
 
 
 <p align="center">
-Este é um projeto desenvolvido após participar de uma formação de React. Foi uma boa oportunidade de praticar e consolidar meus conhecimentos em React e Tailwind CSS.
-O objetivo foi criar uma calculadora funcional com uma interface simples, responsiva e agradável.
+Este é um projeto desenvolvido após participar de um Curso de Formação React feita pela Rocketseat. Foi uma boa oportunidade de praticar e consolidar meus conhecimentos em React, Tailwind CSS e JavaScript.
+O objetivo foi criar uma calculadora funcional com histórico de operações com uma interface simples, responsiva e agradável.
 <br/>
 </p>
 
@@ -23,6 +23,7 @@ O objetivo foi criar uma calculadora funcional com uma interface simples, respon
 Esse projeto foi desenvolvido com as seguintes tecnologias: 
 - React 
 - Tailwind CSS
+- JavaScript
 - Git e GitHub
 - Figma
 
