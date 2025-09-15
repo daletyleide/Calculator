@@ -1,8 +1,8 @@
-<h1 align="center">Calculadora em React</h1>
+<h1 align="center">Calculadora utilizando React e Tailwind</h1>
 
 
 <p align="center">
-Este é um projeto desenvolvido após participar de uma formação de React. Foi uma boa oportunidade de praticar e consolidar meus conhecimentos em React e Tailwind CSS.
+Este é um projeto desenvolvido após participar de uma formação de React pela Rocketseat. Foi uma boa oportunidade de praticar e consolidar fundamentos básicos em React e Tailwind CSS.
 O objetivo foi criar uma calculadora funcional com uma interface simples, responsiva e agradável.
 <br/>
 </p>
