@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora utilizando React e Tailwind</h1>
+<h1 align="center">Calculadora utilizando React e Tailwind CSS</h1>
 
 
 <p align="center">
